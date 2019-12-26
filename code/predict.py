@@ -114,7 +114,7 @@ def main():
 
     # Plot results
     sns.set()
-    fig, ax = plt.subplots(dpi=600)
+    fig, ax = plt.subplots(dpi=200)
     ax.plot(k_ls, mse_user_item_ls, '.-', label='User/Item Based')
     ax.plot(k_ls, mse_item_ls, '.-', label='Item Based')
     ax.plot(k_ls, mse_user_ls, '.-', label='User Based')
