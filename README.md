@@ -1,2 +1,2 @@
 # Movie-Recommendation
-Neighborhood based collaborative filtering algorithms used predicting movie ratings
+Neighborhood based collaborative filtering algorithms applied to predicting movie ratings
